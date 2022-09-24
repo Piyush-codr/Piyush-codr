@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@piyushs02032608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@piyushs02032608" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyush-kumar-7ab1951b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush kumar" height="30" width="40" /></a>
 <a href="https://fb.com/पियूष सिंह" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="पियूष सिंह" height="30" width="40" /></a>
 <a href="https://instagram.com/ig__piyush20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig__piyush20" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/piyush singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piyush singh" height="30" width="40" /></a>
